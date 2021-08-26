@@ -13,7 +13,7 @@ This is a minimal project to reproduce [IDEA-274284](https://youtrack.jetbrains.
    1. `cd sample-processor`
    1. `mvn clean install`
 1. Open `sample-project` in IntelliJ IDEA
-1. Hit `Build` -> `Build project`
+1. Hit `Build` -> `Rebuild project`
 
 # What happens
 
